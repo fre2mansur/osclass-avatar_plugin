@@ -6,7 +6,7 @@ Description: Avatar plugins helps to upload profile picture while register.
 Version: 1.0.0
 Author: Media.Dmj
 Author URI: http://www.vithudu.com/
-Short name: Avatar Plugin
+Short name: avatar_plugin
 Plugin update URI: avatar-plugin
 */
 
